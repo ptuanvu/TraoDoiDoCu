@@ -59,6 +59,22 @@
 #sunny_post_newad:hover {
 	background: #FF0;
 }
+.search_button {
+	background:#06F;
+}
+.lock_button {
+	background:#808080;
+}
+.delete_button {
+	background:#FF0000;
+}
+.send_button {
+	background:#06F;
+}
+.thongbao {
+	width: 500px;
+    height: 50px;
+}
 .sprite_sunny_common_post_icon {
 	width: 16px;
     height: 16px;
