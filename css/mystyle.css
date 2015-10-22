@@ -80,3 +80,7 @@
     height: 16px;
     background: url("../images/sunny_common.png") no-repeat -127px -64px;
 }
+
+.product-row{
+    padding-bottom: 20px;
+}
