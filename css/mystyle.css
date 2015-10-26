@@ -14,7 +14,21 @@
     width: 400px;
     zoom: 1;
 }
-
+.my_navbar {
+	height:100%;
+	margin-top: 0px;
+	background:#BBDEFB;
+	border:none;
+	width:100%;
+}
+.login_button_template {
+	background-color:#009688;
+	margin-top: 15px;
+}
+.customtopmenu {
+	background-color:transparent;
+	margin-left: 450px;
+}
 #header_right {
 	display: inline-block;
     height: 100%;
@@ -32,6 +46,14 @@
     display: inline-block;
     background: #f90;
     margin-left: 5px;
+}
+.banner_header {
+	background:#42A5F5;
+	height:100px;
+}
+.mysql_col {
+	background:#BBDEFB;
+	height:100%;
 }
 .sunny_nav_tabs {
     background: #fff7d0;
