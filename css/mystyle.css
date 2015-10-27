@@ -7,6 +7,9 @@
     display: inline-block;
     vertical-align: middle;
 }
+.send_button_group {
+	text-align:center;
+}
 .img_wraper {
 	display: inline-block;
     height: auto;
